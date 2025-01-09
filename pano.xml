@@ -1383,10 +1383,10 @@
       <hotspot tilt="-16.65" pan="-203.98" description="" url="{node33}" id="Point03" target="" skinid="ht_node" title="거실1"/>
       <hotspot tilt="-16.18" pan="-228.22" description="" url="{node72}" id="Point04" target="" skinid="ht_node" title="복도5"/>
       <hotspot tilt="-23.09" pan="-272.35" description="" url="{node71}" id="Point05" target="" skinid="ht_node" title="복도4"/>
-      <hotspot tilt="-14.92" pan="-41.64" description="" url="" id="Point06" target="_blank" skinid="display-주방오픈 낮" title=""/>
+      <hotspot tilt="-14.92" pan="-41.64" description="" url="" id="Point06" target="_blank" skinid="display-주방오픈 밤" title=""/>
     </hotspots>
     <media>
-      <image handcursor="0" stretch="1.000" roty="0.000" rotx="0.000" rotz="0.000" tilt="-2.330" pan="-1.810" width="3760" height="5520" popbackmode="0" id="Element01" clickmode="0" hidepinned="0" fov="111.660">
+      <image handcursor="0" stretch="1.000" roty="0.000" rotx="0.000" rotz="0.000" tilt="-2.330" pan="-1.810" width="3760" height="5520" popbackmode="0" id="주방오픈밤" clickmode="0" hidepinned="0" fov="111.660">
         <source url="media/sphere_patch_1.jpg"/>
       </image>
     </media>
@@ -1905,10 +1905,10 @@
       <hotspot tilt="-16.65" pan="-203.98" description="" url="{node50}" id="Point03" target="" skinid="ht_node" title="거실1"/>
       <hotspot tilt="-16.18" pan="-228.22" description="" url="{node68}" id="Point04" target="" skinid="ht_node" title="복도5"/>
       <hotspot tilt="-23.09" pan="-272.35" description="" url="{node67}" id="Point05" target="" skinid="ht_node" title="복도4"/>
-      <hotspot tilt="-14.92" pan="-41.64" description="" url="" id="Point06" target="_blank" skinid="display-주방오픈 낮" title=""/>
+      <hotspot tilt="-14.92" pan="-41.64" description="" url="" id="Point06" target="_blank" skinid="display-주방오픈 밤" title=""/>
     </hotspots>
     <media>
-      <image handcursor="0" stretch="1.000" roty="0.000" rotx="0.000" rotz="0.000" tilt="-2.330" pan="-1.810" width="3760" height="5520" popbackmode="0" id="Element01" clickmode="0" hidepinned="0" fov="111.660">
+      <image handcursor="0" stretch="1.000" roty="0.000" rotx="0.000" rotz="0.000" tilt="-2.330" pan="-1.810" width="3760" height="5520" popbackmode="0" id="주방오픈밤" clickmode="0" hidepinned="0" fov="111.660">
         <source url="media/sphere_patch_1.jpg"/>
       </image>
     </media>
