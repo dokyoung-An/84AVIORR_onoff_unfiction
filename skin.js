@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 85 - ??.ggsk
-// Generated 2025-01-13T15:19:34
+// Generated 2025-01-13T15:31:21
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -5308,7 +5308,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me.__130.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("\uc815\ubcf4", params);
+			var hs = player._("\uc548\ub0b4\uc0ac\ud56d", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -5671,7 +5671,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me.__125.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("\uc81c\uacf5\ud488", params);
+			var hs = player._("\uc81c\uacf5\ud488\ubaa9", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -15928,7 +15928,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._text_16.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("\uc81c\uacf5\ud488", params);
+			var hs = player._("\uc81c\uacf5\ud488\ubaa9", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -26821,6 +26821,8 @@ function pano2vrSkin(player,base) {
 		hs+='cursor: default;';
 		hs+='width: 100%;';
 		hs+='height: 100%;';
+		hs+='font-size: 13px;';
+		hs+='font-weight: lighter;';
 		hs+='text-align: left;';
 		hs+='white-space: pre-line;';
 		hs+='padding: 0px;';
